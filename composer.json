@@ -1,0 +1,8 @@
+{
+    "name": "root/www",
+    "description": "Nsoft job",
+    "license": "Mit",
+    "require": {
+        "php-amqplib/php-amqplib": "2.5.*"
+    }
+}
